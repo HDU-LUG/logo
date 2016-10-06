@@ -1,0 +1,4 @@
+This work is released under "Creative Commons CC-BY-ND 3.0 China" license by "HDU Linux User Group (LUG@HDU)". For more information, refer to:
+https://creativecommons.org/licenses/by-nd/3.0/cn/
+
+See "许可协议.txt" for a Chinese version of license text.

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="144cm"
+   height="96cm"
+   viewBox="0 0 5102.3622 3401.5747"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="LUG@HDU.svg"
+   inkscape:export-filename="/home/brilliant/LUG@HDU.svg.png"
+   inkscape:export-xdpi="300.01105"
+   inkscape:export-ydpi="300.01105">
+  <defs
+     id="defs4">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4726"
+       width="1.7"
+       height="3.2000000000000002"
+       x="-0.34999999999999998"
+       y="-1.2">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4728" />
+      <feComposite
+         id="feComposite4972"
+         result="result2"
+         in2="SourceGraphic"
+         operator="in" />
+      <feGaussianBlur
+         stdDeviation="32"
+         id="feGaussianBlur4152"
+         in="result2"
+         result="result3" />
+      <feGaussianBlur
+         in="result2"
+         stdDeviation="256"
+         result="blur"
+         id="feGaussianBlur4732" />
+      <feComponentTransfer
+         id="feComponentTransfer4156"
+         in="blur"
+         result="result4">
+        <feFuncR
+           id="feFuncR4158"
+           type="identity" />
+        <feFuncG
+           id="feFuncG4160"
+           type="identity" />
+        <feFuncB
+           id="feFuncB4162"
+           type="identity" />
+        <feFuncA
+           id="feFuncA4164"
+           type="gamma"
+           slope="1"
+           exponent="0.5" />
+      </feComponentTransfer>
+      <feComposite
+         id="feComposite4156"
+         result="composite2"
+         operator="over"
+         in2="result3"
+         in="SourceGraphic" />
+      <feComposite
+         in="composite2"
+         in2="result4"
+         operator="over"
+         result="composite2"
+         id="feComposite4736" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="2726.4748"
+     inkscape:cy="1551.5351"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="850.39368,1700.7874"
+       orientation="1,0"
+       id="guide4165"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="4251.9684,1700.7874"
+       orientation="1,0"
+       id="guide4167"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="2551.1811,1299.286"
+       orientation="0,1"
+       id="guide4169"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="2551.1811,1700.7874"
+       orientation="0,1"
+       id="guide4357"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="2551.1811,2102.2795"
+       orientation="0,1"
+       id="guide4170"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nd/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nd/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2349.2125)">
+    <rect
+       style="opacity:1;fill:#051123;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4155"
+       width="5102.3623"
+       height="3401.5747"
+       x="0"
+       y="-2349.2124" />
+    <g
+       id="g4502"
+       style="filter:url(#filter4726)">
+      <g
+         style=""
+         transform="translate(0,-186.02363)"
+         id="g4177">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:420.00204468px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#06ea1e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           x="2571.4434"
+           y="-459.55661"
+           id="text4157"
+           sodipodi:linespacing="125%"
+           transform="scale(0.90434203,1.1057763)"><tspan
+             sodipodi:role="line"
+             id="tspan4159"
+             x="2571.4434"
+             y="-459.55661"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:420.00204468px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:center;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#06ea1e;fill-opacity:1;"
+             dy="0 0 0 0 -30 30">[LUG@HDU ~]#</tspan></text>
+        <rect
+           style="opacity:1;fill:#06ea18;fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+           id="rect4175"
+           width="212.59842"
+           height="53.149605"
+           x="3850.4763"
+           y="-480.11801" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4359"
+         y="6.6898623"
+         x="2552.531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300px;line-height:125%;font-family:'Source Han Sans SC';-inkscape-font-specification:'Source Han Sans SC, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cad0b0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="letter-spacing:5px;fill:#cad0b0;fill-opacity:1"
+           dx="0"
+           y="6.6898623"
+           x="2555.031"
+           id="tspan4363"
+           sodipodi:role="line">杭电 Linux 用户组</tspan></text>
+    </g>
+  </g>
+</svg>
